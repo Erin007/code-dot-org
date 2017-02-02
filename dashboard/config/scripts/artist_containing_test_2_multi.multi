@@ -1,0 +1,6 @@
+name 'Artist Containing test 2 Multi'
+title 'title'
+description 'description here'
+question 'Question'
+wrong 'wrong answer', feedback: 'nope'
+right 'right answer', feedback: 'yup'

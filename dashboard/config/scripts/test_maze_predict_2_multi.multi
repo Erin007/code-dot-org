@@ -1,0 +1,6 @@
+name 'Test Maze Predict 2 Multi'
+title 'Multi Title'
+description 'Multi Description'
+question 'Question'
+wrong 'wrong answer', feedback: 'That was wrong'
+right 'right answer', feedback: 'Neat'

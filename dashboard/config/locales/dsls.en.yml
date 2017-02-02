@@ -4348,6 +4348,14 @@ en:
         "/script_assets/4-5_images/maze/4-5_maze_multi_1_q.png, 500": "/script_assets/4-5_images/maze/4-5_maze_multi_1_q.png, 500"
         Maze Multiple Choice: Maze Multiple Choice
         Which blocks solve the puzzle?: Which blocks solve the puzzle?
+      Artist Containing test 2 Multi:
+        Question: Question
+        description here: description here
+        nope: nope
+        right answer: right answer
+        title: title
+        wrong answer: wrong answer
+        yup: yup
       Baker test of multi can delete:
         2+3: 2+3
         3 - 7: 3 - 7
@@ -4362,6 +4370,14 @@ en:
         <img src="https://images.code.org/a2a9c7c5a2ac9c73b0d3fe799fc89d57-image-1461456640433.PNG" width=350>: <img src="https://images.code.org/a2a9c7c5a2ac9c73b0d3fe799fc89d57-image-1461456640433.PNG" width=350>
         <img src="https://images.code.org/b725cf145af5a2de80660713a9e64319-image-1461456645301.PNG">: <img src="https://images.code.org/b725cf145af5a2de80660713a9e64319-image-1461456645301.PNG">
         <img src="https://images.code.org/c0618fe6b648c39fe966f2a4e5478cd8-image-1461456643692.PNG">: <img src="https://images.code.org/c0618fe6b648c39fe966f2a4e5478cd8-image-1461456643692.PNG">
+      Bee containing test 2 Multi:
+        This is a question title: This is a question title
+        This question is pretty straightforward: This question is pretty straightforward
+        What is the right answer?: What is the right answer?
+        Wrong, did you read before you clicked?: Wrong, did you read before you clicked?
+        Yup, you're amazing!: Yup, you're amazing!
+        right answer: right answer
+        wrong answer: wrong answer
       CB_Question_1:
         2 times as many values can be represented.: 2 times as many values can be represented.
         2^32 times as many values can be represented.: 2^32 times as many values can be represented.
@@ -5035,6 +5051,14 @@ en:
         "/script_assets/msm/Unit%202/exercise_1.png": "/script_assets/msm/Unit%202/exercise_1.png"
         Code from Circle: Code from Circle
         Pick the Racket code that comes from the circle of evaluation!: Pick the Racket code that comes from the circle of evaluation!
+      Collector containing test 2 Multi:
+        This is a question title: This is a question title
+        This question is pretty straightforward: This question is pretty straightforward
+        What is the right answer?: What is the right answer?
+        Wrong, did you read before you clicked?: Wrong, did you read before you clicked?
+        Yup, you're amazing!: Yup, you're amazing!
+        right answer: right answer
+        wrong answer: wrong answer
       Commute Assess - comp 1 - block:
         This program causes an error: This program causes an error
         a, b, and tmp are variables. What does this script do?: a, b, and tmp are variables. What does this script do?
@@ -5274,6 +5298,14 @@ en:
         Question: Question
         right answer: right answer
         title: title
+        wrong answer: wrong answer
+      Farmer containing test 2 Multi:
+        This is a question title: This is a question title
+        This question is pretty straightforward: This question is pretty straightforward
+        What is the right answer?: What is the right answer?
+        Wrong, did you read before you clicked?: Wrong, did you read before you clicked?
+        Yup, you're amazing!: Yup, you're amazing!
+        right answer: right answer
         wrong answer: wrong answer
       HOC post-survey 2016 q1:
         Before today, I have...: Before today, I have...
@@ -5828,6 +5860,19 @@ en:
         rocket-height(seconds) = seconds * 10 - 3: rocket-height(seconds) = seconds * 10 - 3
         rocket-height(seconds) = seconds * 7 + 10: rocket-height(seconds) = seconds * 7 + 10
         rocket-height(seconds) = seconds * 7 + 3: rocket-height(seconds) = seconds * 7 + 3
+      Playlab containing test 2 Multi:
+        Question: Question
+        This is a question title: This is a question title
+        This question is pretty straightforward: This question is pretty straightforward
+        What is the right answer?: What is the right answer?
+        Wrong, did you read before you clicked?: Wrong, did you read before you clicked?
+        Yup, you're amazing!: Yup, you're amazing!
+        description here: description here
+        nope: nope
+        right answer: right answer
+        title: title
+        wrong answer: wrong answer
+        yup: yup
       Submittable Multi:
         Submittable Multiple choice: Submittable Multiple choice
         What is your favorite color?: What is your favorite color?
@@ -5849,6 +5894,14 @@ en:
         No, that is not even close.: No, that is not even close.
         What is 1 + 1?: What is 1 + 1?
         Yes, you are a genius!: Yes, you are a genius!
+      Test Maze Predict 2 Multi:
+        Multi Description: Multi Description
+        Multi Title: Multi Title
+        Neat: Neat
+        Question: Question
+        That was wrong: That was wrong
+        right answer: right answer
+        wrong answer: wrong answer
       U1L07 Assessment 1:
         A: A
         B: B

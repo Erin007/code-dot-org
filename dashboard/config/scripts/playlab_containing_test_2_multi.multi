@@ -1,0 +1,6 @@
+name 'Playlab containing test 2 Multi'
+title 'This is a question title'
+description 'This question is pretty straightforward'
+question 'What is the right answer?'
+wrong 'wrong answer', feedback: 'Wrong, did you read before you clicked?'
+right 'right answer', feedback: 'Yup, you\'re amazing!'
