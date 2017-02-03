@@ -1,4 +1,6 @@
 import React from 'react';
+import Radium from 'radium';
+
 import MarkdownInstructions from './MarkdownInstructions';
 import NonMarkdownInstructions from './NonMarkdownInstructions';
 import InputOutputTable from './InputOutputTable';
@@ -6,13 +8,8 @@ import AniGifPreview from './AniGifPreview';
 import experiments from "../../util/experiments";
 
 const styles = {
-  main: {
+  notInTopPane: {
     overflow: 'auto'
-  },
-  icon: {
-    cursor: "pointer",
-    padding: "5px 10px",
-    margin: "0 10px"
   },
 };
 
@@ -50,7 +47,7 @@ var Instructions = React.createClass({
     // These instructions may contain spans and images as determined by
     // substituteInstructionImages
     return (
-      <div style={styles.main}>
+      <div style={[!this.props.inTopPane && styles.notInTopPane]}>
         {this.props.renderedMarkdown && !experiments.isEnabled('hideInstructions') &&
           <MarkdownInstructions
             ref="instructionsMarkdown"
@@ -85,4 +82,4 @@ var Instructions = React.createClass({
   }
 });
 
-module.exports = Instructions;
+module.exports = Radium(Instructions);
